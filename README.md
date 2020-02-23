@@ -1,3 +1,3 @@
-# code-base-example
+# Bin2Dec
 
-This is an example of js developing environment for eslint and git automation.
+This is a binary to decimal converter.
