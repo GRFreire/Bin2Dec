@@ -1,7 +1,7 @@
 {
   "name": "code-base-example",
   "version": "1.0.0",
-  "main": "src/index.js",
+  "main": "src/index.html",
   "author": "GRFreire <gui.rugai.freire@gmail.com>",
   "license": "MIT",
   "husky": {
@@ -26,7 +26,7 @@
     "commitizen": "^4.0.3",
     "cross-env": "^7.0.0",
     "cz-conventional-changelog": "3.1.0",
-    "eslint": "^5.16.0",
+    "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.20.1",
     "husky": "^4.2.3",
